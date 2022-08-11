@@ -66,5 +66,3 @@ console.log(tempCart);
 tempCart = shoppingCart('testing!', null, tempCart);
 console.log(tempCart);
 
-
-JavaScript function that edits the contents of a cart out of place.
